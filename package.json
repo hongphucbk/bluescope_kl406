@@ -1,0 +1,19 @@
+{
+  "name": "reads7200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phuc Truong",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "mkdirp": "^1.0.4",
+    "moment": "^2.29.0",
+    "node-windows": "^1.0.0-beta.5",
+    "nodes7": "^0.3.12",
+    "simple-node-logger": "^18.12.24"
+  }
+}
